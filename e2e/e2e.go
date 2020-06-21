@@ -14,7 +14,7 @@ import (
 	"github.com/hashicorp/terraform/states"
 	"github.com/hashicorp/terraform/states/statefile"
 )
-
+//this is addtional comments added by yjk
 // Type binary represents the combination of a compiled binary
 // and a temporary working directory to run it in.
 type binary struct {
